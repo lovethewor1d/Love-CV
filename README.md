@@ -17,7 +17,7 @@ NZ Post-Study Work Visa (Valid till 2027)
 - Programming Languages: Proficient in Python, C#, HTML, PHP
   
 ## 🎓 Education	  		
-**Master of Cyber Security - First Class Honours** | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			        		
+**Master of Cyber Security - First Class Honours** | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			<br>
 **Bachelor of Computer Applications** | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
   
 ## 💼 Work experience 
