@@ -1,8 +1,12 @@
-# Plant Breeder & Data analyst
-### _Current Position - Genetics Intern - Syngenta_ 
+# Penetration Tester
+### _Current Position - Senior Associate - KPMG Singapore
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+I am a dynamic and accomplished Penetration Tester, having a track record of over six years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
+
+#### Visa:
+Post-Study Work Visa (Valid till 2027)
+
 #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
