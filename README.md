@@ -1,5 +1,5 @@
 # Penetration Tester
-### _Current Position - Senior Associate - KPMG Singapore
+### Current Position - Senior Associate - KPMG Singapore
 
 #### Summary: 
 I am a dynamic and accomplished Penetration Tester, having a track record of over six years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
