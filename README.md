@@ -14,7 +14,7 @@ NZ Post-Study Work Visa (Valid till 2027)
 #### Technical Skills:
 
 - Skills: nmap, metasploit, burp suite pro, OWASP, Secure Code Review, Python automation, Nessus, Compliance Reviews, AWS, Docker, Team Building Exercises
-- Programming Languages: _Proficient in Python, C#, HTML, PHP
+- Programming Languages: Proficient in Python, C#, HTML, PHP
   
 ## 🎓 Education	  		
 **Master of Cyber Security - First Class Honours** | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			        		
@@ -22,9 +22,7 @@ NZ Post-Study Work Visa (Valid till 2027)
   
 ## 💼 Work experience 
 **Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - Present_)**
-- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
-- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
-- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
+- 
 
 **Consultant - Penetration Tester @ <a href="https://phew.co.nz/" target="_blank">Phew Cyber Security</a> (_August 2022 - April 2024_)**
 - Prepared high quality reports and documentation of various security assessments.
@@ -52,15 +50,14 @@ To participate in Incidence Response engagements.
 
 ## 🔬 Achievements (_Verification for achievements can be provided upon request_)
 **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more. 
-**VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.
-                
+**VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.         
 **CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
                  
 
 ## 💻 Projects
-- **Decryptor** - A python-based encrypter and decrypter.
-- **Automated Web Application Creator for Pentesting** -
-- - **Malicious URL Scanner on AWS** - Creating a web browser plugin which will use to detect whether a website is malicious or not. AWS services used: EC2, VPC, IAM, SQS/SNS, lambda, RDS.
+- **Encryptor** - A python-based encrypter and decrypter. <a href="https://github.com/lovethewor1d/encrypter" target="_blank">Click here to view the Repo for this project!</a>
+- **Automated Web Application Creator for Pentesting** - A software used for creating custom _intentionally_ vulnerable web applications within minutes. Languages used: Python, PHP, HTML, CSS. Back-end technology used: MySQL, Docker. <a href="https://github.com/lovethewor1d/Automated-Web-App-Creator" target="_blank">Click here to view the Repo for this project!</a>
+- **Malicious URL Scanner on AWS** - Creating a web browser plugin which will use to detect whether a website is malicious or not. AWS services used: EC2, VPC, IAM, SQS/SNS, lambda, RDS.
 - **Automated DAST Tool** - Developed a tool to automated dynamic web pentesting. This tool can be integrated in the DevSecOps pipeline. Developed for a **private** client.
 - **CTF Platform on AWS** - Creating and managing a CTF platform on AWS.
 - **AD Lab on AWS** - Creating an intentionally-vulnerable Active Directory lab on AWS to enhance pentesting skills of the team.
