@@ -17,7 +17,7 @@ NZ Post-Study Work Visa (Valid till 2027)
 - Programming Languages: Proficient in Python, C#, HTML, PHP
   
 ## 🎓 Education	  		
-**Master of Cyber Security - First Class Honours** | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			<br>
+**Master of Cyber Security - First Class Honours** | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			<br><br>
 **Bachelor of Computer Applications** | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
   
 ## 💼 Work experience 
@@ -49,9 +49,9 @@ Promoted for constantly exceeding expectations and driving multiple engagements 
 To participate in Incidence Response engagements.
 
 ## 🔬 Achievements (_Verification for achievements can be provided upon request_)
-**Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more. 
-**VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.         
-**CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
+- **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
+- **VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.
+- **CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
                  
 
 ## 💻 Projects
