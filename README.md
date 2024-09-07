@@ -1,6 +1,4 @@
 # Penetration Tester
-### Current Position - Senior Associate - KPMG Singapore
-
 #### Summary: 
 I am a dynamic and accomplished Penetration Tester, having a track record of over six years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
 
@@ -8,7 +6,10 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 NZ Post-Study Work Visa (Valid till 2027)
 
 #### Certifications:
-
+- <a href="https://www.credential.net/cbe818dc-02df-42dd-b869-7ca39f1fb197" target="_blank">Offensive Security Certified Professional (OSCP)</a>
+- <a href="https://www.credential.net/9f93940d-b1b3-4238-b941-9e735c015170" target="_blank">Offensive Security Web Assessor (OSWA)</a>
+- Certified Penetration Testing Expert (CPTE)
+- Certified Information Security and Ethical Hacking (CISEH)
 
 #### Technical Skills:
 
@@ -16,8 +17,8 @@ NZ Post-Study Work Visa (Valid till 2027)
 - Programming Languages: _Proficient in Python, C#, HTML, PHP
   
 ## 🎓 Education	  		
-- **Master of Cyber Security - First Class Honours**, Pentesting, Malware Analysis & Cloud Security | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			        		
-- **Bachelor of Computer Applications**, Cyber security & programming | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
+- **Master of Cyber Security - First Class Honours** | <a href="https://waikato.ac.nz/" target="_blank">University of Waikato</a> (_March 2024_)	 			        		
+- **Bachelor of Computer Applications** | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
   
 ## 💼 Work experience 
 **Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - Present_)**
