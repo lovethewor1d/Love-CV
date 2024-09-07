@@ -22,7 +22,7 @@ NZ Post-Study Work Visa (Valid till 2027)
   
 ## 💼 Work experience 
 **Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - Present_)**
-- 
+- add later
 
 **Consultant - Penetration Tester @ <a href="https://phew.co.nz/" target="_blank">Phew Cyber Security</a> (_August 2022 - April 2024_)**
 - Prepared high quality reports and documentation of various security assessments.
