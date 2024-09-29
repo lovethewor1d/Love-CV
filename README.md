@@ -36,13 +36,14 @@ NZ Post-Study Work Visa (Valid till 2027)
 **Promoted to: Consultant @ <a href="https://kpmg.com/in/en/home/services/advisory/cyber-security.html" target="_blank">KPMG India</a> (_April 2021 - June 2022_)**
 - Recognized for surpassing expectations, pushing boundaries, taking initiatives,creating tools, leading CTF events and training sessions, and guiding a team to achieve success.
 - Developed project plans by understanding clients requirements, defined roles and responsibilities, allocated resources and established clear timelines to ensure all tasks are completed efficiently and effectively.
-- Led weekly stand-up calls with the client to discuss progress and communicate any challenges and addressed challenges together. <br>
+- Led weekly stand-up calls with the client to discuss progress and communicate any challenges and addressed challenges together.
+
 **Promoted to: Associate Consultant @ <a href="https://kpmg.com/in/en/home/services/advisory/cyber-security.html" target="_blank">KPMG India</a> (_April 2020 - April 2021_)**
 - Promoted for constantly exceeding expectations and driving multiple engagements to success in a timely manner.
 - Creating custom Tenable Nessus scripts which can be used to perform Compliance/Configuration Reviews.
 - Created infrastructure on AWS platform and implemented secure policies.
 - Created custom tool to perform automated DAST assessment.
-<br>
+
 **Joined as: Analyst @ <a href="https://kpmg.com/in/en/home/services/advisory/cyber-security.html" target="_blank">KPMG India</a> (_May 2019  - April 2020_)**
 - Prepared high quality reports and documentation of various security assessments.
 - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones while leading and mentoring a of 3-4 consultants.
