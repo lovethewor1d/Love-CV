@@ -34,28 +34,28 @@ NZ Post-Study Work Visa (Valid till 2027)
 - Provided mentorship to junior team members, fostering professional growth and enhancing team expertise in cutting-edge security practices.
   
 **<a href="https://kpmg.com/in/en/home/services/advisory/cyber-security.html" target="_blank">KPMG India</a>**
-- **Promoted to: Consultant. (_April 2021 - June 2022_)**
+1. **Promoted to: Consultant. (_April 2021 - June 2022_)**
    - Recognized for surpassing expectations, pushing boundaries, taking initiatives,creating tools, leading CTF events and training sessions, and guiding a team to achieve success.
-- Developed project plans by understanding clients requirements, defined roles and responsibilities, allocated resources and established clear timelines to ensure all tasks are completed efficiently and effectively.
-- Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
-- Performed comprehensive penetration testing and helped clients to mitigate critical findings in a timely manner.
+   - Developed project plans by understanding clients requirements, defined roles and responsibilities, allocated resources and established clear timelines to ensure all tasks are completed efficiently and effectively.
+   - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones while guiding a team of 3-4 consultants.
+   - Performed comprehensive penetration testing and helped clients to mitigate critical findings in a timely manner.
 
-**Promoted to: Associate Consultant. (_April 2020 - April 2021_)**
-- Promoted for constantly exceeding expectations and driving multiple engagements to success in a timely manner.
-- Led weekly stand-up calls with the client to discuss progress and communicate any challenges and addressed challenges together.
-- Creating custom Tenable Nessus scripts which can be used to perform Compliance/Configuration Reviews.
-- Created infrastructure on AWS platform and implemented secure policies.
-- Created custom tool to perform automated DAST assessment.
-- Performed comprehensive penetration testing and helped clients to mitigate critical findings in a timely manner.
+2. **Promoted to: Associate Consultant. (_April 2020 - April 2021_)**
+   - Promoted for constantly exceeding expectations and driving multiple engagements to success in a timely manner.
+   - Led weekly stand-up calls with the client to discuss progress and communicate any challenges and addressed challenges together.
+   - Creating custom Tenable Nessus scripts which can be used to perform Compliance/Configuration Reviews.
+   - Created infrastructure on AWS platform and implemented secure policies.
+   - Created custom tool to perform automated DAST assessment.
+   - Performed comprehensive penetration testing and helped clients to mitigate critical findings in a timely manner.
 
-**Joined as: Analyst. (_May 2019  - April 2020_)**
-- Prepared high quality reports and documentation of various security assessments.
-- Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones while leading and mentoring a of 3-4 consultants.
-- Led rigorous configuration reviews aligned with NIST & CIS Controls to ensure stringent compliance across systems, applications, and servers.
-- Conducted trainings for team members and spearheaded CTF challenges that enhanced the team's problem-solving abilities and cybersecurity acumen.
-- Executed comprehensive pen-testing, vulnerability, risk assessments, and threat modeling utilizing STRIDE and DREAD frameworks to assess risks and fortify security postures.
-- Delivered targeted training sessions to elevate team proficiency in security practices and penetration testing.
-- To participate in Incidence Response engagements.
+3. **Joined as: Analyst. (_May 2019  - April 2020_)**
+   - Prepared high quality reports and documentation of various security assessments.
+   - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
+   - Led rigorous configuration reviews aligned with NIST & CIS Controls to ensure stringent compliance across systems, applications, and servers.
+   - Conducted trainings for team members and spearheaded CTF challenges that enhanced the team's problem-solving abilities and cybersecurity acumen.
+   - Executed comprehensive pen-testing, vulnerability, risk assessments, and threat modeling utilizing STRIDE and DREAD frameworks to assess risks and fortify security postures.
+   - Delivered targeted training sessions to elevate team proficiency in security practices and penetration testing.
+   - To participate in Incidence Response engagements.
 
 ## 🔬 Achievements (_Verification for achievements can be provided upon request_)
 - **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
