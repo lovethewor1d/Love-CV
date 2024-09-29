@@ -57,7 +57,7 @@ NZ Post-Study Work Visa (Valid till 2027)
    - Delivered targeted training sessions to elevate team proficiency in security practices and penetration testing.
    - To participate in Incidence Response engagements.
   
-  **Cyber Security Analyst @ <a href="https://pristineinfo.com/" target="_blank">Pristine InfoSolutions Pvt. Ltd.</a> (_September 2017 - May 2019_)**
+**Cyber Security Analyst @ <a href="https://pristineinfo.com/" target="_blank">Pristine InfoSolutions Pvt. Ltd.</a> (_September 2017 - May 2019_)**
 - Conducted VA/PT for web, API, Android applications and networks utilizing both manual and automated tools to identify and mitigate potential risks.
 - Delivered specialized ethical hacking training to enhance the cybersecurity skills of students and corporate professionals.
 
