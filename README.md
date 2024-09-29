@@ -61,7 +61,7 @@ NZ Post-Study Work Visa (Valid till 2027)
 - Conducted VA/PT for web, API, Android applications and networks utilizing both manual and automated tools to identify and mitigate potential risks.
 - Delivered specialized ethical hacking training to enhance the cybersecurity skills of students and corporate professionals.
 
-## 🔬 Achievements (_Verification for achievements can be provided upon request_)
+## 🔬 Achievements (_Verification available upon request_)
 - **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
 - **VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.
 - **CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
