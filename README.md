@@ -56,6 +56,10 @@ NZ Post-Study Work Visa (Valid till 2027)
    - Executed comprehensive pen-testing, vulnerability, risk assessments, and threat modeling utilizing STRIDE and DREAD frameworks to assess risks and fortify security postures.
    - Delivered targeted training sessions to elevate team proficiency in security practices and penetration testing.
    - To participate in Incidence Response engagements.
+  
+  **Cyber Security Analyst @ <a href="https://pristineinfo.com/" target="_blank">Pristine InfoSolutions Pvt. Ltd.</a> (_September 2017 - May 2019_)**
+- Conducted VA/PT for web, API, Android applications and networks utilizing both manual and automated tools to identify and mitigate potential risks.
+- Delivered specialized ethical hacking training to enhance the cybersecurity skills of students and corporate professionals.
 
 ## 🔬 Achievements (_Verification for achievements can be provided upon request_)
 - **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
