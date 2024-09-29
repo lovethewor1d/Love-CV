@@ -34,8 +34,8 @@ NZ Post-Study Work Visa (Valid till 2027)
 - Provided mentorship to junior team members, fostering professional growth and enhancing team expertise in cutting-edge security practices.
   
 **<a href="https://kpmg.com/in/en/home/services/advisory/cyber-security.html" target="_blank">KPMG India</a>**
-**Promoted to: Consultant. (_April 2021 - June 2022_)**
-- Recognized for surpassing expectations, pushing boundaries, taking initiatives,creating tools, leading CTF events and training sessions, and guiding a team to achieve success.
+- **Promoted to: Consultant. (_April 2021 - June 2022_)**
+   - Recognized for surpassing expectations, pushing boundaries, taking initiatives,creating tools, leading CTF events and training sessions, and guiding a team to achieve success.
 - Developed project plans by understanding clients requirements, defined roles and responsibilities, allocated resources and established clear timelines to ensure all tasks are completed efficiently and effectively.
 - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
 - Performed comprehensive penetration testing and helped clients to mitigate critical findings in a timely manner.
