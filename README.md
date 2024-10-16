@@ -69,9 +69,9 @@ NZ Post-Study Work Visa (Valid till 2027)
                  
 
 ## 💻 Projects
-- **Encryptor** - A python-based encrypter and decrypter. <a href="https://github.com/lovethewor1d/encrypter" target="_blank">Click here to view the Repo for this project!</a>
-- **Automated Web Application Creator for Pentesting** - A software used for creating custom _intentionally_ vulnerable web applications within minutes. Languages used: Python, PHP, HTML, CSS. Back-end technology used: MySQL, Docker. <a href="https://github.com/lovethewor1d/Automated-Web-App-Creator" target="_blank">Click here to view the Repo for this project!</a>
-- **Malicious URL Scanner on AWS** - Creating a web browser plugin which will use to detect whether a website is malicious or not. AWS services used: EC2, VPC, IAM, SQS/SNS, lambda, RDS.
+- **Encryptor** (Masters Project) - A python-based encrypter and decrypter. <a href="https://github.com/lovethewor1d/encrypter" target="_blank">Click here to view the Repo for this project!</a>
+- **Automated Web Application Creator for Pentesting** (Masters Dissertation) - A software used for creating custom _intentionally_ vulnerable web applications within minutes. Languages used: Python, PHP, HTML, CSS. Back-end technology used: MySQL, Docker. <a href="https://github.com/lovethewor1d/Automated-Web-App-Creator" target="_blank">Click here to view the Repo for this project!</a>
+- **Malicious URL Scanner on AWS** (Masters Project) - Creating a web browser plugin which will use to detect whether a website is malicious or not. AWS services used: EC2, VPC, IAM, SQS/SNS, lambda, RDS.
 - **Automated DAST Tool** - Developed a tool to automated dynamic web pentesting. This tool can be integrated in the DevSecOps pipeline. Developed for a **private** client.
 - **CTF Platform on AWS** - Creating and managing a CTF platform on AWS.
 - **AD Lab on AWS** - Creating an intentionally-vulnerable Active Directory lab on AWS to enhance pentesting skills of the team.
