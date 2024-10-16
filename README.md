@@ -22,9 +22,10 @@ NZ Post-Study Work Visa (Valid till 2027)
   
 ## 💼 Work experience 
 **Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - Present_)**
-- Conducted comprehensive source code reviews, red team assessments, purple team assessments, network and web/api/mobile vulnerability assessments and penetration testing.
+- Conducted comprehensive source code reviews, red team assessments, purple team assessments, network and web/api/mobile penetration testing.
 - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
-- Lead by example and guided team members to achieve personal and professional growth in order to enhance their technical and learning capabilities.
+- To guide team members to achieve personal and professional growth in order to enhance their technical and learning capabilities.
+- Developing tools which can be used to streamline pentesting process. 
 
 **Consultant - Penetration Tester @ <a href="https://phew.co.nz/" target="_blank">Phew Cyber Security</a> (_August 2022 - April 2024_)**
 - Prepared high quality reports and documentation of various security assessments.
