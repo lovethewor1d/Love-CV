@@ -8,6 +8,7 @@ NZ Post-Study Work Visa (Valid till 2027)
 #### Certifications:
 - <a href="https://www.credential.net/cbe818dc-02df-42dd-b869-7ca39f1fb197" target="_blank">Offensive Security Certified Professional (OSCP)</a>
 - <a href="https://www.credential.net/113a118e-ee67-466f-b9fc-a353318bfcde" target="_blank">OffSec Web Expert (OSWE)</a>
+- <a href="https://www.credential.net/91f1c748-2a2f-4b0d-965d-0a20186031dd" target="_blank">OffSec Experienced Penetration Tester (OSEP)</a>
 - <a href="https://www.credential.net/9f93940d-b1b3-4238-b941-9e735c015170" target="_blank">Offensive Security Web Assessor (OSWA)</a>
 - Certified Penetration Testing Expert (CPTE)
 - Certified Information Security and Ethical Hacking (CISEH)
