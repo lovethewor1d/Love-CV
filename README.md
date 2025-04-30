@@ -87,7 +87,7 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
   PowerShell scripts to run and automate Nmap scanning tasks.
 
 - 🧪 **Malicious URL Scanner on AWS**  
-  Browser extension that detects malicious websites using AWS services (EC2, Lambda, SQS, RDS, IAM). *(Private repo)*
+  Browser extension that detects malicious websites using AWS services (EC2, Lambda, SQS, RDS, IAM).
 
 - 🔄 **Automated DAST Tool**  
   Internal tool for dynamic web application testing, designed to integrate with DevSecOps pipelines. *(Private client project)*
