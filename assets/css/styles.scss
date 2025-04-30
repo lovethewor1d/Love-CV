@@ -1,0 +1,10 @@
+/* assets/css/styles.scss */
+
+/* Hide GitHub's default download and view buttons */
+a[href*="github.com"][href*="archive/master"] {
+  display: none; /* Hide "Download as .zip" and ".tar.gz" links */
+}
+
+a[href*="github.com"][href*="repository_name"] {
+  display: none; /* Hide "View on GitHub" button */
+}
