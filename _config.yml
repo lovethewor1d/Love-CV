@@ -8,7 +8,7 @@ logo: "1.png" # Ensure the image is in the correct relative path for your repo
 description: "Cybersecurity Enthusiast | Pentester | Developer | CTF Creator" # Fixed hyphenation and added a meaningful description
 
 # Enable download button for CV
-show_downloads: true # Enables a download button for visitors to get your CV (PDF or other formats)
+show_downloads: false # Enables a download button for visitors to get your CV (PDF or other formats)
 
 # Theme for the Jekyll site
 theme: "jekyll-theme-hacker" # Use "jekyll-theme-hacker" for a hacker-style CV
