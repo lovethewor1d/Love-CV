@@ -2,7 +2,7 @@
 #### Summary: 
 I am a dynamic and accomplished Penetration Tester, having a track record of over seven years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
 
-#### 🛠️ Certifications:
+## 🛠️ Certifications:
 - <a href="https://www.credential.net/cbe818dc-02df-42dd-b869-7ca39f1fb197" target="_blank">Offensive Security Certified Professional (OSCP)</a>
 - <a href="https://www.credential.net/113a118e-ee67-466f-b9fc-a353318bfcde" target="_blank">OffSec Web Expert (OSWE)</a>
 - <a href="https://www.credential.net/91f1c748-2a2f-4b0d-965d-0a20186031dd" target="_blank">OffSec Experienced Penetration Tester (OSEP)</a>
@@ -10,7 +10,7 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 - Certified Penetration Testing Expert (CPTE)
 - Certified Information Security and Ethical Hacking (CISEH)
 
-#### 💻 Technical Skills:
+## 💻 Technical Skills:
 
 - Skills: nmap, metasploit, burp suite pro, OWASP, Secure Code Review, Python automation, Nessus, Compliance Reviews, AWS, Docker, Team Building Exercises
 - Programming Languages: Proficient in Python, C#, HTML, PHP
@@ -67,19 +67,36 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 - **CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
                  
 
-## 🔨 Projects
-| 🛠 Project | 🔍 Description |
-|-----------|----------------|
-| 🔧 [Automated-Web-App-Creator](https://github.com/lovethewor1d/Automated-Web-App-Creator) | Automatically creates a web app environment with basic pentest targets. |
-| 📦 [aws-scanner](https://github.com/lovethewor1d/aws-scanner) | Shell script to enumerate AWS resources and scan for misconfigurations. |
-| 🔐 [encrypter](https://github.com/lovethewor1d/encrypter) | Python-based GUI tool for encrypting/decrypting payloads. |
-| 🌐 [Nmap-automation](https://github.com/lovethewor1d/Nmap-automation) | Web app to automate Nmap scans and generate easy-to-read reports. |
-| 🔒 [ssl-cipher-check](https://github.com/lovethewor1d/ssl-cipher-check) | Python tool to analyze SSL cipher suites and identify weak configs. |
-| ⚙️ [nmap-powershell](https://github.com/lovethewor1d/nmap-powershell) | PowerShell scripts to run and automate Nmap scanning tasks. |
-| 🧪 **Malicious URL Scanner on AWS** | Browser plugin to detect malicious URLs using AWS (EC2, Lambda, SQS, RDS). |
-| 🔄 **Automated DAST Tool** | Dynamic Application Security Testing tool developed for DevSecOps CI/CD pipelines. *(Private Client Project)* |
-| 🧱 **CTF Platform on AWS** | Hosted a multi-user Capture-The-Flag challenge environment using AWS. |
-| 🧩 **AD Lab on AWS** | Created an intentionally vulnerable Active Directory lab environment for skill development and team training. |
+## 🔨 Projects:
+- 🔧 **[Automated-Web-App-Creator](https://github.com/lovethewor1d/Automated-Web-App-Creator)**  
+  Automatically creates a web app environment with basic pentest targets. Built using Python, PHP, HTML, CSS, and Docker.
+
+- 📦 **[aws-scanner](https://github.com/lovethewor1d/aws-scanner)**  
+  Shell script to enumerate AWS resources and scan for misconfigurations.
+
+- 🔐 **[encrypter](https://github.com/lovethewor1d/encrypter)**  
+  Python-based GUI tool for encrypting/decrypting payloads, created as part of a master's project.
+
+- 🌐 **[Nmap-automation](https://github.com/lovethewor1d/Nmap-automation)**  
+  Web application to automate Nmap scans and generate easy-to-read reports.
+
+- 🔒 **[ssl-cipher-check](https://github.com/lovethewor1d/ssl-cipher-check)**  
+  Python tool to analyze SSL/TLS cipher suites and flag weak configurations.
+
+- ⚙️ **[nmap-powershell](https://github.com/lovethewor1d/nmap-powershell)**  
+  PowerShell scripts to run and automate Nmap scanning tasks.
+
+- 🧪 **Malicious URL Scanner on AWS**  
+  Browser extension that detects malicious websites using AWS services (EC2, Lambda, SQS, RDS, IAM). *(Private repo)*
+
+- 🔄 **Automated DAST Tool**  
+  Internal tool for dynamic web application testing, designed to integrate with DevSecOps pipelines. *(Private client project)*
+
+- 🧱 **CTF Platform on AWS**  
+  Built a cloud-hosted Capture-The-Flag platform for team-based cybersecurity skill building.
+
+- 🧩 **AD Lab on AWS**  
+  Developed a vulnerable Active Directory lab environment on AWS to enhance penetration testing training.
   
 ## 🎤 Workshop and Conferences:
 **Took Vulnerability Assessments & Penetration Testing training for clients such as:**
