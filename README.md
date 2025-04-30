@@ -68,12 +68,18 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
                  
 
 ## 🔨 Projects
-- **Encryptor** (Masters Project) - A python-based encrypter and decrypter. <a href="https://github.com/lovethewor1d/encrypter" target="_blank">Click here to view the Repo for this project!</a>
-- **Automated Web Application Creator for Pentesting** (Masters Dissertation) - A software used for creating custom _intentionally_ vulnerable web applications within minutes. Languages used: Python, PHP, HTML, CSS. Back-end technology used: MySQL, Docker. <a href="https://github.com/lovethewor1d/Automated-Web-App-Creator" target="_blank">Click here to view the Repo for this project!</a>
-- **Malicious URL Scanner on AWS** (Masters Project) - Creating a web browser plugin which will use to detect whether a website is malicious or not. AWS services used: EC2, VPC, IAM, SQS/SNS, lambda, RDS.
-- **Automated DAST Tool** - Developed a tool to automated dynamic web pentesting. This tool can be integrated in the DevSecOps pipeline. Developed for a **private** client.
-- **CTF Platform on AWS** - Creating and managing a CTF platform on AWS.
-- **AD Lab on AWS** - Creating an intentionally-vulnerable Active Directory lab on AWS to enhance pentesting skills of the team.
+| 🛠 Project | 🔍 Description |
+|-----------|----------------|
+| 🔧 [Automated-Web-App-Creator](https://github.com/lovethewor1d/Automated-Web-App-Creator) | Automatically creates a web app environment with basic pentest targets. |
+| 📦 [aws-scanner](https://github.com/lovethewor1d/aws-scanner) | Shell script to enumerate AWS resources and scan for misconfigurations. |
+| 🔐 [encrypter](https://github.com/lovethewor1d/encrypter) | Python-based GUI tool for encrypting/decrypting payloads. |
+| 🌐 [Nmap-automation](https://github.com/lovethewor1d/Nmap-automation) | Web app to automate Nmap scans and generate easy-to-read reports. |
+| 🔒 [ssl-cipher-check](https://github.com/lovethewor1d/ssl-cipher-check) | Python tool to analyze SSL cipher suites and identify weak configs. |
+| ⚙️ [nmap-powershell](https://github.com/lovethewor1d/nmap-powershell) | PowerShell scripts to run and automate Nmap scanning tasks. |
+| 🧪 **Malicious URL Scanner on AWS** | Browser plugin to detect malicious URLs using AWS (EC2, Lambda, SQS, RDS). |
+| 🔄 **Automated DAST Tool** | Dynamic Application Security Testing tool developed for DevSecOps CI/CD pipelines. *(Private Client Project)* |
+| 🧱 **CTF Platform on AWS** | Hosted a multi-user Capture-The-Flag challenge environment using AWS. |
+| 🧩 **AD Lab on AWS** | Created an intentionally vulnerable Active Directory lab environment for skill development and team training. |
   
 ## 🎤 Workshop and Conferences:
 **Took Vulnerability Assessments & Penetration Testing training for clients such as:**
