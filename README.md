@@ -2,9 +2,6 @@
 #### Summary: 
 I am a dynamic and accomplished Penetration Tester, having a track record of over seven years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
 
-#### Visa:
-NZ Post-Study Work Visa (Valid till 2027)
-
 #### Certifications:
 - <a href="https://www.credential.net/cbe818dc-02df-42dd-b869-7ca39f1fb197" target="_blank">Offensive Security Certified Professional (OSCP)</a>
 - <a href="https://www.credential.net/113a118e-ee67-466f-b9fc-a353318bfcde" target="_blank">OffSec Web Expert (OSWE)</a>
