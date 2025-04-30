@@ -1,16 +1,28 @@
-title: Love Sharma # Add a space after the period
+# Title of the page or CV
+title: "Love Sharma" # Added space after the period for consistency
 
-#logo: 1.png # Use a relative path to logo image 
+# Optionally add a logo image (e.g., profile image)
+logo: "1.png" # Ensure the image is in the correct relative path for your repo
 
-description: . # Fix hyphenation 
+# Short description or tagline
+description: "Cybersecurity Enthusiast | Pentester | Developer | CTF Creator" # Fixed hyphenation and added a meaningful description
 
-show_downloads: true # Fix spelling
+# Enable download button for CV
+show_downloads: true # Enables a download button for visitors to get your CV (PDF or other formats)
 
-theme: jekyll-theme-minimal 
+# Theme for the Jekyll site
+theme: "jekyll-theme-hacker" # Use "jekyll-theme-hacker" for a hacker-style CV
+# Alternative: "jekyll-theme-slate" (you can switch themes by changing this)
 
+# Plugins to enhance the functionality of your page
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-seo-tag # SEO plugin for improving search visibility
 
-#google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
+# Google site verification code (optional for SEO purposes)
+google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # For verifying your site ownership in Google Search Console
 
-email: lovemanojsharma@yahoo.com # Allow visitors to contact you
+# Contact email address for visitors
+email: "lovemanojsharma@yahoo.com" # Visitors can contact you through this email address
+
+# Optional: Custom theme settings if needed
+custom_css: "assets/css/styles.scss" # Add custom CSS path if you want to override default styles
