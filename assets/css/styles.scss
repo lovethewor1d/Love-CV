@@ -1,10 +1,11 @@
-/* assets/css/styles.scss */
-
-/* Hide GitHub's default download and view buttons */
-a[href*="github.com"][href*="archive/master"] {
-  display: none; /* Hide "Download as .zip" and ".tar.gz" links */
+/* Hide GitHub's Download as .zip and .tar.gz links */
+a[href*="github.com"][href*="archive/master.zip"],
+a[href*="github.com"][href*="archive/master.tar.gz"],
+a[href*="github.com"][href*="repository_name/archive/"] {
+  display: none !important; /* Added !important to force hiding */
 }
 
+/* Hide GitHub "View on GitHub" button */
 a[href*="github.com"][href*="repository_name"] {
-  display: none; /* Hide "View on GitHub" button */
+  display: none !important; /* Forcefully hides the View on GitHub button */
 }
