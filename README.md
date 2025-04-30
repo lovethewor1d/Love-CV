@@ -2,7 +2,7 @@
 #### Summary: 
 I am a dynamic and accomplished Penetration Tester, having a track record of over seven years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
 
-#### Certifications:
+#### 🛠️ Certifications:
 - <a href="https://www.credential.net/cbe818dc-02df-42dd-b869-7ca39f1fb197" target="_blank">Offensive Security Certified Professional (OSCP)</a>
 - <a href="https://www.credential.net/113a118e-ee67-466f-b9fc-a353318bfcde" target="_blank">OffSec Web Expert (OSWE)</a>
 - <a href="https://www.credential.net/91f1c748-2a2f-4b0d-965d-0a20186031dd" target="_blank">OffSec Experienced Penetration Tester (OSEP)</a>
@@ -10,7 +10,7 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 - Certified Penetration Testing Expert (CPTE)
 - Certified Information Security and Ethical Hacking (CISEH)
 
-#### Technical Skills:
+#### 💻 Technical Skills:
 
 - Skills: nmap, metasploit, burp suite pro, OWASP, Secure Code Review, Python automation, Nessus, Compliance Reviews, AWS, Docker, Team Building Exercises
 - Programming Languages: Proficient in Python, C#, HTML, PHP
@@ -61,13 +61,13 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 - Conducted VA/PT for web, API, Android applications and networks utilizing both manual and automated tools to identify and mitigate potential risks.
 - Delivered specialized ethical hacking training to enhance the cybersecurity skills of students and corporate professionals.
 
-## 🔬 Achievements (_Verification available upon request_)
+## 🏆 Achievements (_Verification available upon request_)
 - **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
 - **VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.
 - **CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
                  
 
-## 💻 Projects
+## 🔨 Projects
 - **Encryptor** (Masters Project) - A python-based encrypter and decrypter. <a href="https://github.com/lovethewor1d/encrypter" target="_blank">Click here to view the Repo for this project!</a>
 - **Automated Web Application Creator for Pentesting** (Masters Dissertation) - A software used for creating custom _intentionally_ vulnerable web applications within minutes. Languages used: Python, PHP, HTML, CSS. Back-end technology used: MySQL, Docker. <a href="https://github.com/lovethewor1d/Automated-Web-App-Creator" target="_blank">Click here to view the Repo for this project!</a>
 - **Malicious URL Scanner on AWS** (Masters Project) - Creating a web browser plugin which will use to detect whether a website is malicious or not. AWS services used: EC2, VPC, IAM, SQS/SNS, lambda, RDS.
