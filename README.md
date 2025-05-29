@@ -20,7 +20,7 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 **Bachelor of Computer Applications** | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
   
 ## 💼 Work experience 
-**Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - Present_)**
+**Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - May 2025_)**
 - Conducted comprehensive source code reviews, red team assessments, purple team assessments, network and web/api/mobile penetration testing.
 - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
 - To guide team members to achieve personal and professional growth in order to enhance their technical and learning capabilities.
