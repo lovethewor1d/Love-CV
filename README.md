@@ -108,4 +108,4 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 
 | **Name**   | Love Sharma | 
 | **E-mail**   | <a href="mailto:lovemanojsharma@yahoo.com">lovemanojsharma@yahoo.com</a> | 
-| **Mobile**   |+64 02108116967|
+| **Mobile**   |+64 029 122 0805|
