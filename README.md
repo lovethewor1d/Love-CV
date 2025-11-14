@@ -1,6 +1,6 @@
 # Penetration Tester
 #### Summary: 
-I am a dynamic and accomplished Penetration Tester, having a track record of over seven years marked by verifiable successes in vulnerability assessments and penetration testing, red teaming, compliance reviews, network vulnerability assessments and cloud security. My expertise extends to leading CTF events to encourage learning and growth of team members and crafting innovative tools designed to streamline the security testing process. As a tech-savvy professional, I am driven by a passion for research and problem-solving, consistently meeting milestones swiftly to propel business objectives forward. My career aspiration is to harness my skills in managing and leading a collaborative team and steer them towards excellence.
+I am a skilled Penetration Tester with over seven years of hands-on experience in vulnerability assessments, penetration testing, red team exercises, compliance reviews, and cloud security. I have a proven track record of developing custom security tools, leading CTF events, and mentoring teams to elevate technical capability. Passionate about problem-solving and research, I consistently deliver high-quality results and aim to lead high-performing security teams to drive measurable improvements in organisational security.
 
 ## 🛠️ Certifications:
 - <a href="https://www.credential.net/cbe818dc-02df-42dd-b869-7ca39f1fb197" target="_blank">Offensive Security Certified Professional (OSCP)</a>
@@ -20,6 +20,18 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 **Bachelor of Computer Applications** | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
   
 ## 💼 Work experience 
+**Penetration Tester @ <a href="https://www.livertonsecurity.com/" target="_blank">Liverton Security</a> (_June 2025 - Present_)**
+- Lead end-to-end security assessments for multiple government, private clients and internal teams, covering source code reviews, red/purple team exercises, compliance reviews, and penetration testing across networks, web applications, APIs, thick clients, SCADA, and mobile applications.
+- Serve as a trusted consultant, delivering actionable security guidance, remediation advice, and tailored risk-reduction strategies aligned with NZISM, NIST, and OWASP standards.
+- Act as the primary technical contact for clients, maintaining strong relationships and ensuring timely, high-quality security deliverables.
+- Support internal teams by integrating security into all development phases and offer strategic input on secure software development lifecycle (SSDLC) practices, policy creation, and risk management frameworks.
+- Develop and implement comprehensive security policies and frameworks.
+- Lead key security projects, including vulnerability assessments and penetration tests, remediation support, and continuous improvement initiatives, helping clients mitigate risks and strengthen their security posture.
+- Automate internal tools and workflows to enhance testing efficiency, reduce execution time, and improve coverage.
+- Provide expert advisory on security best practices, threat modelling, and defensive strategies to help clients and internal teams address emerging threats.
+- Mentor and guide teams, educating them on secure coding practices, risk management strategies, and overall cybersecurity best practices.
+- Foster a culture of continuous improvement within the organisation by delivering training sessions, knowledge-sharing workshops, and fostering collaboration between security and development teams.
+
 **Senior Associate @ <a href="https://kpmg.com.sg/" target="_blank">KPMG Singapore</a> (_September 2024 - May 2025_)**
 - Lead comprehensive source code reviews, red team assessments, purple team assessments, network and web/api/mobile penetration testing.
 - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
@@ -28,16 +40,16 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 
 **Consultant - Penetration Tester @ <a href="https://phew.co.nz/" target="_blank">Phew Cyber Security</a> (_August 2022 - April 2024_)**
 - Prepared high quality reports and documentation of various security assessments.
-- Conducted comprehensive Internal and External Network Vulnerability Assessments and Penetration Testing while aligning findings with NIST frameworks.
+- Conducted comprehensive Internal and External Network Vulnerability Assessments and Penetration Testing while aligning findings with NIST framework.
 - Executed web, API, and mobile pen tests aligned with OWASP and NIST standards and performed Risk Assessments and Threat Modeling.
 - Played a pivotal role in Managed Services delivery, ensuring prompt and effective resolution of client issues and support ticket management.
 - Provided mentorship to junior team members, fostering professional growth and enhancing team expertise in cutting-edge security practices.
   
 **<a href="https://kpmg.com/in/en/home/services/advisory/cyber-security.html" target="_blank">KPMG India</a>**
 - **Promoted to: Consultant. (_April 2021 - June 2022_)**
-   - Recognized for surpassing expectations, pushing boundaries, taking initiatives,creating tools, leading CTF events and training sessions, and guiding a team to achieve success.
+   - Recognised for surpassing expectations, pushing boundaries, taking initiatives, creating tools, leading CTF events and training sessions, and guiding a team to achieve success.
    - Developed project plans by understanding clients requirements, defined roles and responsibilities, allocated resources and established clear timelines to ensure all tasks are completed efficiently and effectively.
-   - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones while guiding a team of 3-4 consultants.
+   - Expertly communicated, managed and synchronised multiple stakeholders and clients, achieving 100% on-time delivery of project milestones while guiding a team of 3-4 consultants.
    - Performed comprehensive penetration testing and helped clients to mitigate critical findings in a timely manner.
 
 - **Promoted to: Associate Consultant. (_April 2020 - April 2021_)**
@@ -50,20 +62,20 @@ I am a dynamic and accomplished Penetration Tester, having a track record of ove
 
 - **Joined as: Analyst. (_May 2019  - April 2020_)**
    - Prepared high quality reports and documentation of various security assessments.
-   - Expertly communicated, managed and synchronized multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
+   - Expertly communicated, managed and synchronised multiple stakeholders and clients, achieving 100% on-time delivery of project milestones.
    - Led rigorous configuration reviews aligned with NIST & CIS Controls to ensure stringent compliance across systems, applications, and servers.
-   - Conducted trainings for team members and spearheaded CTF challenges that enhanced the team's problem-solving abilities and cybersecurity acumen.
+   - Conducted trainings for team members and spearheaded creation of CTF challenges that enhanced the team's problem-solving abilities and cybersecurity acumen.
    - Executed comprehensive pen-testing, vulnerability, risk assessments, and threat modeling utilizing STRIDE and DREAD frameworks to assess risks and fortify security postures.
    - Delivered targeted training sessions to elevate team proficiency in security practices and penetration testing.
    - To participate in Incidence Response engagements.
   
 **Cyber Security Analyst @ <a href="https://pristineinfo.com/" target="_blank">Pristine InfoSolutions Pvt. Ltd.</a> (_September 2017 - May 2019_)**
 - Conducted VA/PT for web, API, Android applications and networks utilizing both manual and automated tools to identify and mitigate potential risks.
-- Delivered specialized ethical hacking training to enhance the cybersecurity skills of students and corporate professionals.
+- Delivered specialised ethical hacking training to enhance the cybersecurity skills of students and corporate professionals.
 
 ## 🏆 Achievements (_Verification available upon request_)
-- **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
-- **VM Creator** - Created multiple vulnerable machines which are being used within Offensive Security environments.
+- **Bug Bounty** - Received Hall of Fames & Rewards from companies such as Offsec _(Offensive Security)_, Microsoft, Intel, Government of Netherlands, McDonald's, Alien Vault, Razer, and many more.
+- **VM Creator** - Created multiple vulnerable machines which are being used within Offsec _(Offensive Security)_.
 - **CTF Creator** - Created multiple Capture-The-Flag challenges for NZ Cyber Security Challenge (NZCSC).
                  
 
