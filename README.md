@@ -20,7 +20,7 @@ I am a skilled Penetration Tester with over seven years of hands-on experience i
 **Bachelor of Computer Applications** | <a href="https://www.himalayanuniversity.com/" target="_blank">Himalayan University</a> (_April 2018_)
   
 ## 💼 Work experience 
-**Penetration Tester @ <a href="https://www.livertonsecurity.com/" target="_blank">Liverton Security</a> (_June 2025 - Present_)**
+**Senior Penetration Tester @ <a href="https://www.livertonsecurity.com/" target="_blank">Liverton Security</a> (_June 2025 - Present_)**
 - Lead end-to-end security assessments for multiple government, private clients and internal teams, covering source code reviews, red/purple team exercises, compliance reviews, and penetration testing across networks, web applications, APIs, thick clients, SCADA, and mobile applications.
 - Serve as a trusted consultant, delivering actionable security guidance, remediation advice, and tailored risk-reduction strategies aligned with NZISM, NIST, and OWASP standards.
 - Act as the primary technical contact for clients, maintaining strong relationships and ensuring timely, high-quality security deliverables.
