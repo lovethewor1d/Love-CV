@@ -8,7 +8,7 @@ I am a skilled Penetration Tester with over seven years of hands-on experience i
 - <a href="https://www.credential.net/91f1c748-2a2f-4b0d-965d-0a20186031dd" target="_blank">OffSec Experienced Penetration Tester (OSEP)</a>
 - <a href="https://www.credential.net/9f93940d-b1b3-4238-b941-9e735c015170" target="_blank">Offensive Security Web Assessor (OSWA)</a>
 - <a href="https://pentestingexams.com/certificate-validation/" target="_blank">Certified Cloud Pentesting eXpert-AWS (CCPenX-AWS)</a>
-                                                                                - **Badge ID:** 10980930
+                                                                                - **Certificate ID:** 10980930
 - Certified Penetration Testing Expert (CPTE)
 - Certified Information Security and Ethical Hacking (CISEH)
 
